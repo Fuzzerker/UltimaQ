@@ -4,3 +4,9 @@ version = "0.1.0"
 authors = ["AyeAyeRown"]
 
 [dependencies]
+futures = "*"
+tokio-io = "*"
+tokio-core = "*"
+tokio-proto = "*"
+tokio-service = "*"
+bytes = "*"
